@@ -3,6 +3,11 @@
 		"name": "Tablaster",
 		"description": "The Tablaster Spacebar instance.",
 		"image": "https://raw.githubusercontent.com/spacebarchat/spacebarchat/master/branding/png/Spacebar__Icon-Discord.png",
-		"url": "https://spacebar.tablaster.dev"
+			"urls": {
+			"wellknown": "https://spacebar.tablaster.dev",
+			"api": "https://spacebarapi.tablaster.dev/api",
+			"cdn": "https://spacebarcdn.tablaster.dev",
+			"gateway": "wss://spacebargateway.tablaster.dev"
+		}
 	}
 ]
